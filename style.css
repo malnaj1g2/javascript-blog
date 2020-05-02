@@ -93,7 +93,7 @@ body {
 
 /* Authors */
 
-.authors {
+.osrodek {
   li {
     margin-bottom: 12px;
   }
@@ -108,7 +108,7 @@ body {
   }
 }
 
-.post-author {
+.osrodek-name {
   font-style: italic;
 }
 
